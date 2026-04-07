@@ -1,0 +1,3 @@
+#include <stdiol.h>
+printf("hello world");
+printf("hello world2");
